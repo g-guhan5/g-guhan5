@@ -37,6 +37,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building proj
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+### 🎨 Editing Tools  
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
+![PicsArt](https://img.shields.io/badge/PicsArt-FF7A00?style=for-the-badge&logo=picsart&logoColor=white)  
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)  
+
 ---
 
 ## 📈 GitHub Stats
