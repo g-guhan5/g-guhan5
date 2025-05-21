@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building proj
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: Java projects and competitive programming
-- 🌱 I’m learning: Spring Boot and React
-- 💬 Ask me about: Java, Python, DSA, system design
-- 📫 How to reach me: [your-email@example.com] or [LinkedIn Profile]
+- 🔭 I’m currently working on: Java projects
+- 🌱 I’m learning: Java 
+- 💬 Ask me about: Java, Python, Editing
+- 📫 How to reach me: [guhanguhan5070@gmail.com] or [LinkedIn Profile]
 - ⚡ Fun fact: I enjoy turning complex problems into simple code
 
 ---
