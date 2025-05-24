@@ -52,10 +52,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building proj
 
 ## 📌 Pinned Projects
 
-- [🔗 Project 1](https://github.com/your-username/project1) — Short description of project 1
-- [🔗 Project 2](https://github.com/your-username/project2) — Short description of project 2
-- [🔗 Project 3](https://github.com/your-username/project3) — Short description of project 3
-
+- [🔗 Project 1](https://github.com/g-guhan5/Mobilephone-Detection.py.git) — This project leverages the YOLOv8 (You Only Look Once version 8) object detection model to automatically detect mobile phones in real-time from images or video feeds. Built with Python and Ultralytics' YOLOv8, it is designed for applications such as exam monitoring, surveillance, or enforcing mobile-free zones.
 ---
 
 Thanks for stopping by! ⭐️ Feel free to connect and collaborate!
