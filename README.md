@@ -6,11 +6,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building proj
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: Java projects
+- 🔭 I’m currently studying: CSE
 - 🌱 I’m learning: Java 
 - 💬 Ask me about: Java, Python, Editing
 - 📫 How to reach me: [guhanguhan5070@gmail.com] or [LinkedIn Profile]
-- ⚡ Fun fact: I enjoy turning complex problems into simple code
 
 ---
 
