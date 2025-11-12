@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building proj
 - 🔭 I’m currently studying: CSE
 - 🌱 I’m learning: Java 
 - 💬 Ask me about: Java, Python, Editing
-- 📫 How to reach me: [guhanguhan5070@gmail.com] or [LinkedIn Profile]
+- 📫 How to reach me: [guhanguhan5070@gmail.com] or [http://www.linkedin.com/in/guhan-g-17509530a']
 
 ---
 
