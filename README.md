@@ -78,11 +78,8 @@ https://github.com/g-guhan5/Mobilephone-Detection.py.git
 ## 🤖 AI-Driven Penetration Testing Framework
 Final year project focused on automated penetration testing using AI techniques for vulnerability detection, reconnaissance, and security assessment.
 
----
-
-# 📊 GitHub Stats
-
-![Guhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=g-guhan5&show_icons=true&theme=tokyonight)
+🔗 Repository:
+https://github.com/g-guhan5/Mobilephone-Detection.py.git
 
 ---
 
