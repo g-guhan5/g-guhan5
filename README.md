@@ -85,19 +85,18 @@ https://github.com/g-guhan5/Guhan-portfolio.git
 
 ---
 
-## 📱 Mobile Phone Detection System
-This project uses YOLOv8 object detection to detect mobile phones in real-time from images and video feeds for monitoring and surveillance applications.
-
-🔗 Repository:
-https://github.com/g-guhan5/Mobilephone-Detection.py.git
-
----
-
-## 🤖 AI-Driven Penetration Testing Framework
+## 🤖 AI-Driven Penetration Testing Framework - Major Project
 Final year project focused on automated penetration testing using AI techniques for vulnerability detection, reconnaissance, and security assessment.
 
 🔗 Repository:
 https://github.com/g-guhan5/AI-Driven-Penetration-Testing-Framework.git
+---
+
+## 📱 Mobile Phone Detection System - Mini Project
+This project uses YOLOv8 object detection to detect mobile phones in real-time from images and video feeds for monitoring and surveillance applications.
+
+🔗 Repository:
+https://github.com/g-guhan5/Mobilephone-Detection.py.git
 
 ---
 
