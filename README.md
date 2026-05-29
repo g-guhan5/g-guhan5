@@ -59,6 +59,19 @@
 
 # 📌 Featured Projects
 
+## 📊 JERRY EFX
+Jerry EFX is a modern social media dashboard designed to manage social media performance with a clean and responsive interface.
+
+🔗 Repository:
+https://github.com/g-guhan5/JERRY-EFX.git
+
+## 👕 KGF CLOTHING
+About
+KGF Clothing is a modern custom T-shirt website built with React and TypeScript. The website showcases stylish clothing collections.
+
+🔗 Repository:
+https://github.com/g-guhan5/KGF-CLOTHING.git
+
 ## 🍽️ KGF RESTAURANT
 Modern and responsive restaurant website built using React.js and Vite with elegant UI and smooth user experience.
 
