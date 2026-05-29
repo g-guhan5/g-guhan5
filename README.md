@@ -76,7 +76,13 @@ https://github.com/g-guhan5/KGF-CLOTHING.git
 Modern and responsive restaurant website built using React.js and Vite with elegant UI and smooth user experience.
 
 🔗 Repository:
-https://github.com/yourusername/kgf-restaurant
+https://github.com/g-guhan5/KGF-RESTAUIRANT.git
+
+💼 GUHAN PORTFOLIO
+A modern and responsive portfolio website built with React.js to showcase my projects, skills, and experience with a clean UI, smooth performance, and interactive user experience.
+
+🔗 Repository:
+https://github.com/g-guhan5/Guhan-portfolio.git
 
 ---
 
