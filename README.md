@@ -140,11 +140,9 @@ From web development and AI projects to data analytics and creative work, you'll
 
 # 📈 GitHub Stats
 
-![Guhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=g-guhan5&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=g-guhan5&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g-guhan5&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=g-guhan5&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=g-guhan5&layout=compact&theme=tokyonight)
 
 ---
 
