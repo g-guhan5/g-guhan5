@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Guhan G
-
-Portfolio -[ guhan-portfolio-beta.vercel.app](https://guhan-portfolio-beta.vercel.app/)
+# 👋 Hi, I'm [Guhan G](https://guhan-portfolio-beta.vercel.app/)
 
 ### 💻 Frontend Developer | Video Editor
 
